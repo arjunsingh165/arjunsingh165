@@ -1,10 +1,5 @@
 ## Hi there 👋
 
-<!--
-**arjunsingh165/arjunsingh165** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
 - 🔭 I’m currently working on some exciting **data science projects**, diving into **data analysis** and **visualizations**.
 - 🌱 I’m currently learning **advanced data science techniques** and exploring **machine learning**.
 - 👯 I’m looking to collaborate on **open - source projects** and **data-driven web applications**.
@@ -12,8 +7,6 @@
 - 💬 Ask me about **Python, data science, or how to create beautiful, functional websites**.
 - 😄 Pronouns: **he/him**
 - ⚡ Fun fact: I’m also a **content creator**! 🎥 I love sharing my **tech journey on YouTube**, and I’m passionate about **riding**.
-
----
 
 💡 **More about me:**
 
@@ -25,4 +18,4 @@
 
 Let’s connect and **bring innovative ideas to life together!** 🌟
 
--->
+
